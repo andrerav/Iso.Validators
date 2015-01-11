@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>$id$</id>
+        <version>$version$</version>
+        <title>$id$</title>
+        <authors>$author$</authors>
+        <owners>$author$</owners>
+        <projectUrl>https://github.com/andrerav/Iso.Validators</projectUrl>
+        <iconUrl>http://www.iso.org/iso/2012_iso-logo_print.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>$description$</description>
+        <summary>$description$</summary>
+        <copyright>Copyright © 2015 Andreas Ravnestad</copyright>
+    </metadata>
+</package>
