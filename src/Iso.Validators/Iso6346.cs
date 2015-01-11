@@ -46,7 +46,7 @@ namespace Iso.Validators
 				var chr = containerCode.Substring(i, 1);
 
 				// Ensure that the current character is in the valid alphabet
-				int idx = chr == "?" ? -1 : CharCode.IndexOf(chr);
+				int idx = chr == "?" ? -1 : CharCode.IndexOf(chr, System.StringComparison.Ordinal);
 				if (idx < 0) {
 					return false;
 				}
