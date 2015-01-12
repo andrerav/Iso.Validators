@@ -12,5 +12,6 @@
         <description>$description$</description>
         <summary>$description$</summary>
         <copyright>Copyright © 2015 Andreas Ravnestad</copyright>
+        <tags>.Net ISO Validation Class Library International Standards</tags>
     </metadata>
 </package>
