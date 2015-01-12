@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="Iso6346Tests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Iso27729IsniTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ISO.Validators\Iso.Validators.csproj">

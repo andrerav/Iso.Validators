@@ -17,13 +17,13 @@ using System;
 
 namespace Iso.Validators
 {
-    public static class Iso6346
+    public static class Iso6346Bic
     {
 
 		const string CharCode = "0123456789A?BCDEFGHIJK?LMNOPQRSTU?VWXYZ";
 
 		/// <summary>
-		/// Validate an Iso6346 container code. Based on example code from <a href="http://en.wikipedia.org/wiki/ISO_6346">http://en.wikipedia.org/wiki/ISO_6346</a>
+		/// Validate an ISO 6346 (BIC) container code. Based on example code from <a href="http://en.wikipedia.org/wiki/ISO_6346">http://en.wikipedia.org/wiki/ISO_6346</a>
 		/// </summary>
 		/// <param name="containerCode"></param>
 		/// <returns></returns>
