@@ -39,6 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Iso2108Isbn.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Iso27729Isni.cs" />
     <Compile Include="Iso6346Bic.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
